@@ -8,11 +8,11 @@
 - Selenium – 4.3.0
 
 2. Execute the tests
-gradle clean test
+- gradle clean test
 
 3. It generates Allure Report also.
-allure serve build/allure-results
+- allure serve build/allure-results
 
 4. Extent Report can also be generated
-Path - app/ExtentReports
+- Path - app/ExtentReports
 
